@@ -1,0 +1,28 @@
+/* Write your code here. */
+
+.container {
+  padding: 15px;
+  height: 100vh;
+}
+.gallery-container {
+  background-color: #ffffff;
+  max-width: 1140px;
+}
+.photography-description {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.photography-heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 18px;
+}
+.thumbnail-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
